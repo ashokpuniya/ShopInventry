@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShopInventory.iml" filepath="$PROJECT_DIR$/ShopInventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopInventoryBase/ShopInventoryBase.iml" filepath="$PROJECT_DIR$/ShopInventoryBase/ShopInventoryBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopInventoryClient/ShopInventoryClient.iml" filepath="$PROJECT_DIR$/ShopInventoryClient/ShopInventoryClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopInventoryCore/ShopInventoryCore.iml" filepath="$PROJECT_DIR$/ShopInventoryCore/ShopInventoryCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopInventoryService/ShopInventoryService.iml" filepath="$PROJECT_DIR$/ShopInventoryService/ShopInventoryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopInventoryWeb/ShopInventoryWeb.iml" filepath="$PROJECT_DIR$/ShopInventoryWeb/ShopInventoryWeb.iml" />
+    </modules>
+  </component>
+</project>
